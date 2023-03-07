@@ -39,7 +39,7 @@ Here are some my features
 
 <br/></br><br/></br>
 
-**🔥 Languages**
+**⭐️ Languages**
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealPark&layout=compact&theme=merko)
