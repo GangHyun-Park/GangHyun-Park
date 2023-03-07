@@ -9,7 +9,7 @@ Here are some my features
 - 👯 I like **Java** & **Javascript**
 - 👀 I like to challenge new technology.
 
-<br/></br>
+<br/></br><br/></br>
 
 **🖋 My Skill Set**
 ---
@@ -24,10 +24,14 @@ Here are some my features
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-<br/></br>
+<br/></br><br/></br>
 
 **🔦 Interested & In Study Skill**
 ---
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=Next.Js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
+<br/></br><br/></br>
+
+**🔦 Interested & In Study Skill**
+---
 
