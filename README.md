@@ -32,6 +32,6 @@ Here are some my features
 
 <br/></br><br/></br>
 
-**🔦 Interested & In Study Skill**
+**🔥 Github Stats**
 ---
-
+![GangHyun-Park's github stats](https://github-readme-stats.vercel.app/api?username=RealPark&show_icons=true&theme=tokyonight)
