@@ -35,3 +35,11 @@ Here are some my features
 **🔥 Github Stats**
 ---
 ![GangHyun-Park's github stats](https://github-readme-stats.vercel.app/api?username=RealPark&show_icons=true&theme=tokyonight)
+
+
+<br/></br><br/></br>
+
+**🔥 Languages**
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealPark&layout=compact&theme=merko)
