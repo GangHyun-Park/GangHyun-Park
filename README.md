@@ -2,9 +2,9 @@
 
 
 
-### 💪My name is GangHyun Park🤙
+### 👨‍💻My name is GangHyun Park🤙
 
-Here are some ideas to get you started:
+Here are some my features
 
 - 🔭 I’m **Backend Developer !**
 - 💡 I'm interested **Wep develop !**
